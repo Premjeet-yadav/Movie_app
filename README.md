@@ -80,7 +80,7 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 # 🍿 Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
+- Check out our live demo at https://movie-cul6iunsp-premjeet-yadav.vercel.app/ 
  
 
 
